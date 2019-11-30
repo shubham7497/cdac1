@@ -1,1 +1,1 @@
-printttt ("hello")
+print ("hello")
